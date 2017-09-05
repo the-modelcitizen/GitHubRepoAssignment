@@ -1,0 +1,1 @@
+This directory contains an assignment that teaches GitHub
